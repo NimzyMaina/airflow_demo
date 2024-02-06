@@ -44,7 +44,7 @@ $ docker-compose up
 
 | Field    | Value |
 | -------- | ------- |
-| Connection ID  | click_house_01    |
+| Connection ID  | sqlite_01    |
 | Connection Type  | sqlite    |
 | Host |  	/opt/airflow/dags/sql.db   |
 
